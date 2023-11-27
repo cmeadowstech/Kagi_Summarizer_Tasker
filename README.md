@@ -10,4 +10,4 @@ Let's you share from other apps to Kagi's Universal Sumarizer for quick and seam
   - task.xml - show_kagi_scene
   - scene.xml - kagi_scene
 - You'll also need to set up an AutoShare profile that points to the show_kagi_scene task. I followed this Reddit thread - https://old.reddit.com/r/tasker/comments/94esb4/tutorial_creating_autoshare_commands_for_your/
-- Once everything is configured, create a variable called %KAGI_TOKEN and populate it with session token from your [Kagi Account settings](https://kagi.com/settings?p=user_details). You only need the token after ?token=. 
+- Once everything is configured, create a variable called %KAGI_TOKEN and populate it with a session token from your [Kagi Account settings](https://kagi.com/settings?p=user_details). You only need the token after ?token=. 
