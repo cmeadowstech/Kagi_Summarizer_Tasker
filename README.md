@@ -2,6 +2,8 @@
 
 Let's you share from other apps to Kagi's Universal Sumarizer for quick and seamless summaries. Reliant on the AutoShare plugin for Tasker.
 
+![image](https://github.com/cmeadowstech/Kagi_Summarizer_Tasker/assets/30964870/c1fc0c0f-4cc5-496b-a1cf-8e2bc9658d95)
+
 ## Installation
 
 - You'll need to download and install the two .xml files. One as a scene, and one as a task.
